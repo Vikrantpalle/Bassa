@@ -2,4 +2,4 @@ CONTRIBUTORS
 ============
 
  - Milindu Sanoj Kumarage (agentmilindu)
- -Vikrant reddy palle
+ - Vikrant Reddy Palle (vikrantpalle)
